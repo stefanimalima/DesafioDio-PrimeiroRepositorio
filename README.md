@@ -51,7 +51,7 @@ Não esqueça de digitar *`git status`* novamente para conferir se os arquivos j
 
 `Ainda não feche o console` 
 
-#### Passo 2: Digite `git -m "Comentário relacionado a versão atual"`, aperte enter e aguarde. 
+#### Passo 2: Digite `git commit -m "Comentário relacionado a versão atual"`, aperte enter e aguarde. 
 
 Esse comentário deve ser coerente com a nova versão, indicando exatamente a nova alteração. 
 
